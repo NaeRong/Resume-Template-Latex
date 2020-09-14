@@ -1,4 +1,4 @@
-# Beautiful Resume format in LaTex
+# Beautiful Resume Format in LaTex
 Your resume doesn't have to be boring! By using the following LaTex files in
 [Resume Overleaf](https://github.com/NaeRong/Resume-Template-Latex/Resume%Overleaf), your resume will stand out from other applicants!
 
