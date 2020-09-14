@@ -13,7 +13,7 @@ Your resume doesn't have to be boring! By using the following LaTex files in
   * [section_Headline.tex](https://github.com/NaeRong/Resume-Template-Latex/tree/master/Resume%20Overleaf/section_Headline.tex)
   * [section_Projects.tex](https://github.com/NaeRong/Resume-Template-Latex/blob/master/Resume%20Overleaf/section_Projets.tex)
   * [section_Skills.tex](https://github.com/NaeRong/Resume-Template-Latex/blob/master/Resume%20Overleaf/section_Skills.tex)
-* [Resume PDF](https://github.com/NaeRong/Resume-Template-Latex/tree/master/Resume%20Overleaf/Nae_Rong_Chang_Resume_LaTex.pdf)
+* [Resume PDF](https://github.com/NaeRong/Resume-Template-Latex/blob/master/Nae_Rong_Chang_Resume_LaTex.pdf)
 : Resume pdf file after running all the files in [Resume Overleaf](https://github.com/NaeRong/Resume-Template-Latex/tree/master/Resume%20Overleaf) folder.
   
 **Note**:
